@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desenv. Back End\\EXEMPLO1_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{059E77F2-880C-435B-B73D-86ADD6E362E6}|EXEMPLO1_MVC\\EXEMPLO1_MVC.csproj|c:\\desenv. back end\\exemplo1_mvc\\exemplo1_mvc\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059E77F2-880C-435B-B73D-86ADD6E362E6}|EXEMPLO1_MVC\\EXEMPLO1_MVC.csproj|solutionrelative:exemplo1_mvc\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E77F2-880C-435B-B73D-86ADD6E362E6}|EXEMPLO1_MVC\\EXEMPLO1_MVC.csproj|c:\\desenv. back end\\exemplo1_mvc\\exemplo1_mvc\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059E77F2-880C-435B-B73D-86ADD6E362E6}|EXEMPLO1_MVC\\EXEMPLO1_MVC.csproj|solutionrelative:exemplo1_mvc\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E77F2-880C-435B-B73D-86ADD6E362E6}|EXEMPLO1_MVC\\EXEMPLO1_MVC.csproj|c:\\desenv. back end\\exemplo1_mvc\\exemplo1_mvc\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{059E77F2-880C-435B-B73D-86ADD6E362E6}|EXEMPLO1_MVC\\EXEMPLO1_MVC.csproj|solutionrelative:exemplo1_mvc\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E77F2-880C-435B-B73D-86ADD6E362E6}|EXEMPLO1_MVC\\EXEMPLO1_MVC.csproj|c:\\desenv. back end\\exemplo1_mvc\\exemplo1_mvc\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059E77F2-880C-435B-B73D-86ADD6E362E6}|EXEMPLO1_MVC\\EXEMPLO1_MVC.csproj|solutionrelative:exemplo1_mvc\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Desenv. Back End\\EXEMPLO1_MVC\\EXEMPLO1_MVC\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "EXEMPLO1_MVC\\Models\\Produto.cs",
+              "ToolTip": "C:\\Desenv. Back End\\EXEMPLO1_MVC\\EXEMPLO1_MVC\\Models\\Produto.cs",
+              "RelativeToolTip": "EXEMPLO1_MVC\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T00:18:32.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Desenv. Back End\\EXEMPLO1_MVC\\EXEMPLO1_MVC\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "EXEMPLO1_MVC\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Desenv. Back End\\EXEMPLO1_MVC\\EXEMPLO1_MVC\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "EXEMPLO1_MVC\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAtwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T23:30:19.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Desenv. Back End\\EXEMPLO1_MVC\\EXEMPLO1_MVC\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "EXEMPLO1_MVC\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Desenv. Back End\\EXEMPLO1_MVC\\EXEMPLO1_MVC\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "EXEMPLO1_MVC\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T22:53:16.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Desenv. Back End\\EXEMPLO1_MVC\\EXEMPLO1_MVC\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "EXEMPLO1_MVC\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Desenv. Back End\\EXEMPLO1_MVC\\EXEMPLO1_MVC\\Models\\Categoria.cs",
+              "RelativeToolTip": "EXEMPLO1_MVC\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T22:41:49.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
