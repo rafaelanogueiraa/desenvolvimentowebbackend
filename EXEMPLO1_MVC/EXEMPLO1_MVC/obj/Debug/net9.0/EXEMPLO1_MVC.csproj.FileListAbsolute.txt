@@ -317,3 +317,4 @@ C:\Desenv. Back End\EXEMPLO1_MVC\EXEMPLO1_MVC\obj\Debug\net9.0\refint\EXEMPLO1_M
 C:\Desenv. Back End\EXEMPLO1_MVC\EXEMPLO1_MVC\obj\Debug\net9.0\EXEMPLO1_MVC.pdb
 C:\Desenv. Back End\EXEMPLO1_MVC\EXEMPLO1_MVC\obj\Debug\net9.0\EXEMPLO1_MVC.genruntimeconfig.cache
 C:\Desenv. Back End\EXEMPLO1_MVC\EXEMPLO1_MVC\obj\Debug\net9.0\ref\EXEMPLO1_MVC.dll
+C:\Desenv. Back End\EXEMPLO1_MVC\EXEMPLO1_MVC\obj\Debug\net9.0\EXEMPLO1_MVC.sourcelink.json
